@@ -1,2 +1,3 @@
 # calculator
-a calculator with basic functions.
+make a calculator with basic functions.
+- use JavaFX
